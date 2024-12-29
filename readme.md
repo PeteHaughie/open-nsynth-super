@@ -6,6 +6,13 @@ Open NSynth Super is an experimental physical interface for NSynth, a machine le
 
 This repository contains all the instructions and files required to build an Open NSynth Super instrument from scratch, and you can use them to make your own version. Anyone can fork the code and schematics to remix the instrument in any way they wish.
 
+## 2025 Changes
+
+- Runs on Pi Zero 2, 3/b+, 4, 5
+- No longer needs an ADC as it doesn't use potentiometers
+- XY provided by Bela Trill Square over i2c so no need for a PCB
+- "Keys" are directly attached to GPIO
+
 ### About this document
 
 This document has three chapters – an overview of the instrument itself, a 'make your own' guide, and an overview of the audio creation process.
