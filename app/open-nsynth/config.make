@@ -18,7 +18,6 @@ OF_ROOT = /Applications/openFrameworks
 #
 ################################################################################
 # PROJECT_ROOT = .
-PROJECT_ROOT = /Applications/openFrameworks/apps/myApps/open-nsynth
 
 ################################################################################
 # PROJECT SPECIFIC CHECKS
