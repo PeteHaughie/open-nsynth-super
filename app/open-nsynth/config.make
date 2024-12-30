@@ -9,6 +9,7 @@
 #       (default) OF_ROOT = ../../..
 ################################################################################
 # OF_ROOT = ../../..
+OF_ROOT = /Applications/openFrameworks
 
 ################################################################################
 # PROJECT ROOT
@@ -17,6 +18,7 @@
 #
 ################################################################################
 # PROJECT_ROOT = .
+PROJECT_ROOT = /Applications/openFrameworks/apps/myApps/open-nsynth
 
 ################################################################################
 # PROJECT SPECIFIC CHECKS
@@ -38,6 +40,7 @@
 #   Note: Leave a leading space when adding list items with the += operator
 ################################################################################
 #PROJECT_EXTERNAL_SOURCE_PATHS = ../SharedCode
+PROJECT_EXTERNAL_SOURCE_PATHS = ./third_party
 
 ################################################################################
 # PROJECT EXCLUSIONS
